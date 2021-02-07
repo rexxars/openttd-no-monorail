@@ -1,0 +1,14 @@
+grf {
+    grfid: "EH\02\01";
+    name: string(STR_GRF_NAME);
+    desc: string(STR_GRF_DESCRIPTION);
+    url: string(STR_GRF_URL);
+    version: 0;
+    min_compatible_version: 0;
+}
+
+/* From: https://newgrf-specs.tt-wiki.net/wiki/VehicleIDs
+ * 54 -  56 are monorail engines
+ * 57 -  83 are monorail wagons
+ */
+disable_item(FEAT_TRAINS, 54, 83);

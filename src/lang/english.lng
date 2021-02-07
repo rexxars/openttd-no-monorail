@@ -1,0 +1,4 @@
+##grflangid 0x01
+STR_GRF_NAME        :No Monorail
+STR_GRF_DESCRIPTION :Description: {SILVER}Disables monorail trains and tracks{}{BLACK}Author: {SILVER}Espen Hovlandsdal{}{BLACK}License: {SILVER}MIT{}{BLACK}Website: {SILVER}https://github.com/rexxars/openttd-no-monorail{}
+STR_GRF_URL         :https://github.com/rexxars/openttd-no-monorail
