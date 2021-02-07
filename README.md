@@ -14,4 +14,5 @@ I prefer regular trains! Having the monorail trains around when playing against 
 
 ## License
 
-MIT © [Espen Hovlandsdal](https://espen.codes/)
+Creative Commons Attribution 3.0 Unported
+[Espen Hovlandsdal](https://espen.codes/)
